@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1719257891
+timestamp 1747665862
 << dnwell >>
 rect 683 -3853 5288 1461
 rect 683 -3859 2069 -3853
@@ -10,6 +10,8 @@ rect 573 1255 5397 1570
 rect 573 -3647 769 1255
 rect 5082 -3647 5397 1255
 rect 573 -3962 5397 -3647
+<< mvpsubdiff >>
+rect 3698 -1205 4919 -1187
 << mvnsubdiff >>
 rect 640 1484 5331 1504
 rect 640 1450 720 1484
@@ -18,8 +20,8 @@ rect 640 1430 5331 1450
 rect 640 1424 714 1430
 rect 640 -3816 660 1424
 rect 694 -3816 714 1424
-rect 640 -3822 714 -3816
 rect 5257 1424 5331 1430
+rect 640 -3822 714 -3816
 rect 5257 -3816 5277 1424
 rect 5311 -3816 5331 1424
 rect 5257 -3822 5331 -3816
@@ -134,16 +136,16 @@ rect 3179 -1288 3362 -1273
 rect 1031 -3483 3047 -3465
 rect 3179 -3556 3287 -1288
 rect 3442 -1344 3470 -1026
-rect 3601 -1032 3669 1029
-rect 3601 -1081 4780 -1032
-rect 3601 -1311 3669 -1081
+rect 3601 -1038 3669 1029
+rect 3601 -1087 4780 -1038
+rect 3601 -1305 3669 -1087
 rect 4868 -1142 4914 1166
 rect 3708 -1164 4914 -1142
 rect 3708 -1221 3742 -1164
 rect 4827 -1221 4914 -1164
 rect 3708 -1249 4914 -1221
-rect 3601 -1357 4784 -1311
-rect 3601 -3421 3669 -1357
+rect 3601 -1351 4784 -1305
+rect 3601 -3421 3669 -1351
 rect 3601 -3466 4784 -3421
 rect 3603 -3467 4784 -3466
 rect 4868 -3531 4914 -1249
@@ -190,193 +192,193 @@ rect 726 -3695 3419 -3580
 rect 5008 -3695 5160 -3580
 rect 726 -3726 5160 -3695
 use iso_switch_via  iso_switch_via_0
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 2678 0 1 1634
 box 652 -2914 724 -2722
 use iso_switch_via  iso_switch_via_1
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 2846 0 1 1635
 box 652 -2914 724 -2722
 use iso_switch_via_long  iso_switch_via_long_0
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 3912 0 1 -408
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_1
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 625 0 1 -411
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_2
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1100 0 1 658
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_3
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1257 0 1 -411
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_4
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1573 0 1 -411
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_5
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1889 0 1 -411
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_6
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 945 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_7
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 2205 0 1 -411
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_8
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 468 0 1 658
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_9
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 784 0 1 658
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_10
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 2048 0 1 658
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_11
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1416 0 1 658
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_12
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1732 0 1 658
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_13
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 629 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_14
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1100 0 -1 -1978
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_15
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1261 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_16
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1577 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_17
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 309 0 1 -415
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_18
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1893 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_19
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 2209 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_20
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 941 0 1 -411
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_21
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 468 0 -1 -1978
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_22
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 784 0 -1 -1978
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_23
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 2048 0 -1 -1978
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_24
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1416 0 -1 -1978
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_25
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1732 0 -1 -1978
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_26
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 3280 0 1 -408
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_27
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 4494 0 1 664
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_28
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 3596 0 1 -408
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_29
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 4810 0 1 664
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_30
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 5126 0 1 664
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_31
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 4494 0 1 3042
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_32
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 4810 0 1 3042
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_33
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 5126 0 1 3042
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_34
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 5442 0 1 664
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_35
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 5442 0 1 3042
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_38
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 309 0 -1 -3046
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_39
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 3912 0 1 1980
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_40
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 3596 0 1 1980
 box 612 -2974 764 -2051
 use iso_switch_via_long  iso_switch_via_long_41
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 3280 0 1 1980
 box 612 -2974 764 -2051
 use sky130_fd_pr__nfet_g5v0d10v5_EJGQJV  sky130_fd_pr__nfet_g5v0d10v5_EJGQJV_0 paramcells
-timestamp 1719085816
+timestamp 1747665862
 transform -1 0 3456 0 1 -1188
 box -278 -358 278 358
 use sky130_fd_pr__nfet_g5v0d10v5_F5JQJ7  sky130_fd_pr__nfet_g5v0d10v5_F5JQJ7_0 paramcells
-timestamp 1719085816
-transform -1 0 4282 0 1 -3
-box -673 -1258 673 1258
+timestamp 1747665862
+transform -1 0 4282 0 1 -9
+box -673 -1214 673 1214
 use sky130_fd_pr__pfet_g5v0d10v5_AQSWZU  sky130_fd_pr__pfet_g5v0d10v5_AQSWZU_0 paramcells
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1946 0 1 8
 box -1177 -1297 1177 1297
 use sky130_fd_pr__pfet_g5v0d10v5_AQSWZU  XM4
-timestamp 1719085816
+timestamp 1747665862
 transform 1 0 1946 0 1 -2396
 box -1177 -1297 1177 1297
 use sky130_fd_pr__nfet_g5v0d10v5_F5JQJ7  XM15
-timestamp 1719085816
-transform -1 0 4282 0 1 -2389
-box -673 -1258 673 1258
+timestamp 1747665862
+transform -1 0 4282 0 1 -2383
+box -673 -1214 673 1214
 << labels >>
 flabel metal1 3334 1386 3402 1567 0 FreeSans 256 270 0 0 shunt
 port 6 nsew

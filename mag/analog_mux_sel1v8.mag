@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1714180253
+timestamp 1747665639
 << psubdiff >>
 rect 3348 5238 3808 5296
 rect 3348 3328 3402 5238
@@ -170,23 +170,23 @@ rect 3082 3530 3168 6122
 rect 1632 3478 3168 3530
 rect -5200 34 4112 438
 use isolated_switch  isolated_switch_1
-timestamp 1714078654
+timestamp 1747665639
 transform 1 0 -301 0 1 2911
 box 301 -2911 4463 1830
 use isolated_switch  isolated_switch_2
-timestamp 1714078654
+timestamp 1747665639
 transform -1 0 -743 0 1 2911
 box 301 -2911 4463 1830
-use sky130_fd_pr__diode_pw2nd_05v5_HTFGEA  sky130_fd_pr__diode_pw2nd_05v5_HTFGEA_0  paramcells
-timestamp 1714178384
+use sky130_fd_pr__diode_pw2nd_05v5_HTFGEA  sky130_fd_pr__diode_pw2nd_05v5_HTFGEA_0 paramcells
+timestamp 1747665639
 transform 1 0 -2144 0 1 5433
 box -186 -186 186 186
 use sky130_fd_sc_hvl__inv_2  sky130_fd_sc_hvl__inv_2_0 $PDKPATH/libs.ref/sky130_fd_sc_hvl/mag
-timestamp 1712845802
+timestamp 1747665639
 transform -1 0 -704 0 1 5089
 box -66 -43 546 897
 use sky130_fd_sc_hvl__lsbuflv2hv_1  sky130_fd_sc_hvl__lsbuflv2hv_1_0 $PDKPATH/libs.ref/sky130_fd_sc_hvl/mag
-timestamp 1712845802
+timestamp 1747665639
 transform 1 0 896 0 1 5065
 box -66 -43 2178 1671
 << labels >>
